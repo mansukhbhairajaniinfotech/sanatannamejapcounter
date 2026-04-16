@@ -1,6 +1,6 @@
 {
   "ad_setting": {
-    "is_intra_show": false,
+    "is_intra_show": true,
     "intra_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_Interstitial",
     "banner_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_AppOpen",
     "open_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_Banner",
