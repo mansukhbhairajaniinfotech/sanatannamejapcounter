@@ -2,8 +2,8 @@
   "ad_setting": {
     "is_intra_show": true,
     "intra_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_Interstitial",
-    "banner_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_AppOpen",
-    "open_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_Banner",
+    "banner_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_Banner",
+    "open_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_AppOpen",
     "native_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_Native",
     "rectangle_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_Rectangle",
     "reward_ad_id": "/21753324030,22829501112/com.sanatannamjap.counter.japmala.jap.mala_Rewarded",
